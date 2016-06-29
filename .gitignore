@@ -1,16 +1,1 @@
-*.pyc
-/rtmbot.conf
-/plugins/**
-/build/**
-*.log
-env
-.tox
-*.un~
-0/
-tests/.cache
-.coverage
-.cache
-bin/
-include/
-lib/
-pip-selfcheck.json
+node_modules
