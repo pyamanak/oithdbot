@@ -10,3 +10,7 @@ env
 tests/.cache
 .coverage
 .cache
+bin/
+include/
+lib/
+pip-selfcheck.json
