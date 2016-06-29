@@ -18,3 +18,6 @@ def process_presence_change(data):
     if (data["presence"].startswith("active")):
         print("IS ACTIVE")
 
+    # Can we send a message to the Slackbot with the UserID
+    # (which we have) and have the slackbot post to the user?
+
